@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ms_service</string>
+    <string name="accessibility_description">开启此功能</string>
+</resources>
